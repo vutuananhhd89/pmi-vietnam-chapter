@@ -3,35 +3,27 @@
 module.exports = {
   url: 'https://liy.netlify.app',
   pathPrefix: '/',
-  title: 'Learn It Yourself',
-  subtitle: 'Help you learn new things in engineering way',
-  copyright: '© All rights reserved.',
+  title: 'PMI Vietnam Chapter',
+  subtitle: 'Connecting Vietnam PM community with events, articles, knowledge sharing',
+  copyright: 'PMI Vietnam Chapter',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'Agile Talk',
-      path: '/pages/AgileTalk'
-    },
-    {
-      label: 'Dev Talk',
-      path: '/pages/DevTalk'
-    },
-    {
       label: 'About Us',
       path: '/pages/about'
     },
+    {
+      label: 'Membership',
+      path: '/pages/membership'
+    },
   ],
   author: {
-    name: 'Learn It Yourself',
+    name: 'PMI Vietnam Chapter',
     photo: '/Logo-PMI-VN-square.png',
-    bio: 'Help you learn new things in engineering way',
+    bio: 'Connecting Vietnam PM community',
     contacts: {
       email: '',
       facebook: '#',
