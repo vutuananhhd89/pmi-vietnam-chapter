@@ -19,6 +19,10 @@ module.exports = {
       label: 'Membership',
       path: '/pages/membership'
     },
+    {
+      label: 'Events',
+      path: '/category/events'
+    },
   ],
   author: {
     name: 'PMI Vietnam Chapter',

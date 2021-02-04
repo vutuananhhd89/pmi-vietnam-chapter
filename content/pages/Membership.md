@@ -1,7 +1,6 @@
 ---
 title: "Membership"
 template: "page"
-socialImage: "/media/agile-talk.jpg"
 ---
 **Membership Benefits**
 - Chapter events, workshops, conferences to connect with local & international **PM community**
@@ -9,8 +8,8 @@ socialImage: "/media/agile-talk.jpg"
 - **Monthly newsleter** with articles for trends, tools, and methodologies related to project management; job opportunity 
 
 **Join PMI Vietnam Chapter**
-Membership begins by joining PMI Global
 
+Membership begins by joining PMI Global
 1. Go to <https://www.pmi.org>
 2. Click on Membership Tab
 3. Choose the type of plan that suits your needs 
