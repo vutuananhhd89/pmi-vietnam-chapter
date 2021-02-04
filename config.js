@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://liy.netlify.app',
+  url: 'https://pmivietnamchapter.netlify.app',
   pathPrefix: '/',
   title: 'PMI Vietnam Chapter',
   subtitle: 'Connecting Vietnam PM community with events, articles, knowledge sharing',
