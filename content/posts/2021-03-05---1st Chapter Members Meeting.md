@@ -11,4 +11,4 @@ tags:
   - Hanoi Events
 
 ---
-A Great Event :) 
+A Great Event for PMI Vietnam Chapter members

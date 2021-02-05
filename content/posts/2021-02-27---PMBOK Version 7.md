@@ -14,6 +14,9 @@ tags:
 
 The Seventh Edition is a whole new beast. We are really focusing not so much on the outputs like we have seen before. We are focusing more on the outcomes. By Cyndi Dionisio, member of PMBOK 7 team
 
-# Principle-based and Rule-based concepts
+**Time**: 2021-02-27 20:30
+**Location**: Google Hangout Call
 
-![Principles are at bottom of the Iceberg](/media/principles.png "Principles are at bottom of the Iceberg")
+# What we will share
+
+- ...
