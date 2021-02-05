@@ -16,8 +16,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'membership',
-      path: '/pages/about-copy'
+      label: 'Membership',
+      path: '/pages/membership'
     },
     {
       label: 'Events',
